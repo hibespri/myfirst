@@ -10,7 +10,7 @@ public class SpringBootTestApplication{
 
 	public static void main(String[] args) {
 		Logger logger=LoggerFactory.getLogger(SpringBootTestApplication.class);
-		logger.info("Spring Boot is starting ....");
+		logger.info("Spring Boot is starting .....");
 		SpringApplication.run(SpringBootTestApplication.class, args);
 		logger.info("Spring Boot is after starting ....");
 	}
