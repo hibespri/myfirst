@@ -14,7 +14,7 @@ public class SpringBootTestApplication {
 		SpringApplication.run(SpringBootTestApplication.class, args);
 		logger.info("Spring Boot is after starting ....");
 		logger.info("This is feature branch change...");
-		logger.info("This is feature branch second change....");
+		logger.info("This is feature branch second change...");
 	}
 
 	/*
