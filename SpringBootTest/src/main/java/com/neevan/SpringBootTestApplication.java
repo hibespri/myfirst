@@ -13,7 +13,7 @@ public class SpringBootTestApplication{
 		logger.info("Spring Boot is starting .....");
 		SpringApplication.run(SpringBootTestApplication.class, args);
 		logger.info("Spring Boot is after starting ....");
-	}
+		logger.info("This is feature branch change...");}
 
 	/*
 	 * @Override public void run(String... args) throws Exception {
